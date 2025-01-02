@@ -1,0 +1,24 @@
+# Ignore Android Studio specific files
+.idea/
+.gradle/
+local.properties
+
+# Ignore build directories
+/build/
+app/build/
+
+# Ignore generated files
+*.iml
+*.apk
+*.dex
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore log files
+*.log
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db

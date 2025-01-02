@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Music Player</string>
+    <string name="all_songs">All Songs</string>
+    <string name="import_songs">Import Files From Device</string>
+    <string name="tab_song">Song</string>
+    <string name="tab_artist">Artist</string>
+    <string name="tab_album">Album</string>
+    <string name="tab_folder">Folder</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="cover">Cover</string>
+</resources>
